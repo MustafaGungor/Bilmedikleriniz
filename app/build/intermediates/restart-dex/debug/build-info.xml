@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="xxhdpi"
+    format="7"
+    timestamp="392587537186329"
+    token="3045769310326963780" >
+
+    <task
+        name="javac"
+        duration="1177" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="751" />
+    <task
+        name="verifier"
+        duration="280" />
+
+    <artifact
+        location="C:\Users\speakingJoy\Desktop\Bilmedikleriniz\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="392587537186329" >
+        <artifact
+            location="C:\Users\speakingJoy\Desktop\Bilmedikleriniz\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
